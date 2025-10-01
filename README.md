@@ -1,4 +1,4 @@
-# Weather-Report-Analysis-by-Python
+# Weather Report Analysis by Python
 
 This Jupyter Notebook presents an **Exploratory Data Analysis (EDA)** of a **Weather Report Dataset**, which is a time-series dataset containing per-hour weather information for a particular location.
 
