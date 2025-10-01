@@ -51,6 +51,8 @@ A **bar chart** compares the average temperature and relative humidity for diffe
 * Weather conditions like **'Fog'**, **'Freezing Drizzle, Fog'**, and **'Snow, Fog'** are associated with the highest average relative humidity (above 90%), which is consistent with the presence of fog.
 * The highest average temperatures are associated with conditions like **'Clear'** and **'Mainly Clear'** and the lowest with conditions like **'Snow'** and **'Freezing Rain'**.
 
+## Project By: Ayush Shukla
+
 ### 5. Hottest Hour of the Day
 A **line plot** of the average temperature by hour shows a diurnal cycle:
 * The temperature is lowest around **4 AM**.
